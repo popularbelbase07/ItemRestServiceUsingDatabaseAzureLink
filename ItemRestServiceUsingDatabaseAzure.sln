@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemRestServiceUsingDatabaseAzure", "ItemRestServiceUsingDatabaseAzure.csproj", "{3D88FEA5-169C-44B2-98FC-221C4F750834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemLibraryProject", "..\ItemLibraryProject\ItemLibraryProject.csproj", "{DE2D5EE2-08BA-4616-85C8-1E6419D510C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D88FEA5-169C-44B2-98FC-221C4F750834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D88FEA5-169C-44B2-98FC-221C4F750834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D88FEA5-169C-44B2-98FC-221C4F750834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D88FEA5-169C-44B2-98FC-221C4F750834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2D5EE2-08BA-4616-85C8-1E6419D510C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2D5EE2-08BA-4616-85C8-1E6419D510C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2D5EE2-08BA-4616-85C8-1E6419D510C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2D5EE2-08BA-4616-85C8-1E6419D510C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21AA6C6-88FC-4BC9-BEF0-BA80AA2944A8}
+	EndGlobalSection
+EndGlobal
